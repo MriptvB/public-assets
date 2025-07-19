@@ -53,6 +53,15 @@
     "ShowInMenu": true
   },
   {
+    "name": "Hiddify",
+    "image": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
+    "os": ["Android"],
+    "downloadLinks": {
+      "Android": "https://play.google.com/store/apps/details?id=app.hiddify.com"
+    },
+    "ShowInMenu": true
+  },
+  {
     "name": "Nekoray",
     "image": "https://avatars.githubusercontent.com/u/95122236?v=4",
     "os": ["Windows", "Linux"],
