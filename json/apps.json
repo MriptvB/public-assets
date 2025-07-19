@@ -1,16 +1,5 @@
 [
   {
-    "name": "Streisand",
-    "urlScheme": "streisand://import/",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/a0/cd/83a0cd76-ef34-d890-7b44-a1a9a17041c5/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/512x512bb.jpg",
-    "link": "streisand://import/{url}",
-    "os": ["iOS"],
-    "downloadLinks": {
-      "iOS": "https://apps.apple.com/us/app/streisand/id6450534064"
-    },
-    "ShowInMenu": true
-  },
-  {
     "name": "V2rayNG",
     "urlScheme": "v2rayng://install-config",
     "image": "https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30",
@@ -50,14 +39,26 @@
     "downloadLinks": {
       "iOS": "https://apps.apple.com/us/app/shadowrocket/id932747118"
     },
-    "ShowInMenu": true
+    "ShowInMenu": false
   },
   {
     "name": "Hiddify",
     "image": "https://play-lh.googleusercontent.com/Dm_6ugf7Wwib_A3AFFdtkktufYGGOamhb072Ii46zYyb__qZHSocnJGErEUWxp7UWaGG=w240-h480-rw",
     "os": ["Android"],
     "downloadLinks": {
-      "Android": "https://play.google.com/store/apps/details?id=app.hiddify.com"
+      "Android": "https://play.google.com/store/apps/details?id=app.hiddify.com",
+      "IOS": "https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone"
+    },
+    "ShowInMenu": true
+  },
+  {
+    "name": "Streisand",
+    "urlScheme": "streisand://import/",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/a0/cd/83a0cd76-ef34-d890-7b44-a1a9a17041c5/AppIcon-0-0-1x_U007epad-0-0-0-0-85-220.png/512x512bb.jpg",
+    "link": "streisand://import/{url}",
+    "os": ["iOS"],
+    "downloadLinks": {
+      "iOS": "https://apps.apple.com/us/app/streisand/id6450534064"
     },
     "ShowInMenu": true
   },
