@@ -21,6 +21,15 @@
     },
     "ShowInMenu": true
   },
+    {
+    "name": "Shadowrocket",
+    "image": "https://avatars.githubusercontent.com/u/22568082?s=200&v=4",
+    "os": ["iOS"],
+    "downloadLinks": {
+      "iOS": "https://apps.apple.com/us/app/shadowrocket/id932747118"
+    },
+    "ShowInMenu": true
+  },
   {
     "name": "V2box",
     "urlScheme": "v2box://install-sub",
